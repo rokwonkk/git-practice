@@ -1,6 +1,6 @@
 team: Tigers
 
-manager: Kenneth
+manager: Deborah
 
 coach: Grace
 
