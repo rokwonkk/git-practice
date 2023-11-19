@@ -1,6 +1,6 @@
 team: Tigers
 
-manager: Deborah
+manager: Brenda
 
 coach: Grace
 
