@@ -1,6 +1,6 @@
 team: Tigers
 
-manager: Donald
+manager: Kenneth
 
 coach: Grace
 
