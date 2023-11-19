@@ -1,6 +1,6 @@
 team: Tigers
 
-manager: Donald
+manager: Deborah
 
 coach: Grace
 
